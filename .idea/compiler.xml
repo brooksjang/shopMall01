@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gamll-bean" />
+        <module name="gamll-common-util" />
+        <module name="gamll-interface" />
+        <module name="gamll-service-util" />
+        <module name="gamll-usermange" />
+        <module name="gamll-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gamll-bean" target="1.8" />
+      <module name="gamll-common-util" target="1.8" />
+      <module name="gamll-interface" target="1.8" />
+      <module name="gamll-parent" target="1.8" />
+      <module name="gamll-service-util" target="1.8" />
+      <module name="gamll-usermange" target="1.8" />
+      <module name="gamll-web-util" target="1.8" />
+      <module name="gamllparent" target="1.8" />
+      <module name="gmall-parent" target="1.8" />
+      <module name="gmall0209" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

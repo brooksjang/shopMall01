@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gamll-bean/gamll-bean.iml" filepath="$PROJECT_DIR$/gamll-bean/gamll-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-common-util/gamll-common-util.iml" filepath="$PROJECT_DIR$/gamll-common-util/gamll-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-interface/gamll-interface.iml" filepath="$PROJECT_DIR$/gamll-interface/gamll-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-parent/gamll-parent.iml" filepath="$PROJECT_DIR$/gamll-parent/gamll-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" filepath="$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-usermange/gamll-usermange.iml" filepath="$PROJECT_DIR$/gamll-usermange/gamll-usermange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-web-util/gamll-web-util.iml" filepath="$PROJECT_DIR$/gamll-web-util/gamll-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shopMall01.iml" filepath="$PROJECT_DIR$/.idea/shopMall01.iml" />
+    </modules>
+  </component>
+</project>
